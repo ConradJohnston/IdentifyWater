@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Read a QuantumESPRESSO scf output and identify which oxygen atoms are hydrated as OH or H2O,
 based on a distance metric which correctly respects periodic triclinic cells. 
